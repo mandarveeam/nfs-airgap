@@ -33,5 +33,5 @@ chmod +x nfs-image-pull.sh
 ```
 
 
-##. License: 
+## License: 
 This script is provided as-is, without any warranty or guarantee.
