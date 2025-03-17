@@ -30,6 +30,7 @@ This script automates preparation of the Kubernetes **CSI NFS Driver** deploymen
 git clone https://github.com/mandarveeam/nfs-airgap.git
 cd nfs-airgap
 chmod +x nfs-image-pull.sh
+```
 
 
 ##. License: 
