@@ -19,6 +19,13 @@ This script automates preparation of the Kubernetes **CSI NFS Driver** deploymen
 
 - **Debian-based (Ubuntu, Debian)** or **RHEL-based (CentOS, RHEL, Oracle Linux)** OS.
 - **sudo/root privileges**.
+- **If you get permission error run following command**.
+
+```bash
+sudo usermod -aG docker $USER
+```
+- **Then Logout and Login bach to the terminal**.
+
 
 ---
 
