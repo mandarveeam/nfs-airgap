@@ -27,5 +27,6 @@ This script automates preparation of the Kubernetes **CSI NFS Driver** deploymen
 ### 1. Download or copy the script:
 
 ```bash
-wget https://your-repo-url/install-nfs-csi-images.sh
-chmod +x install-nfs-csi-images.sh
+git clone https://github.com/mandarveeam/nfs-airgap.git
+cd nfs-airgap
+chmod +x nfs-image-pull.sh
